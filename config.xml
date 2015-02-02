@@ -6,14 +6,14 @@
         id        = "za.co.syntagm.esload"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Esload</name>
 
     <description>
         Esload is a load scheduling assist for WC users
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        Synapps Team
+    <author href="http://www.syntagm.co.za" email="syntagm@icon.co.za">
+        synApps Team
     </author>
 
     <!--
