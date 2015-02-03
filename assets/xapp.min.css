@@ -603,7 +603,7 @@ button.ui-button::-moz-focus-inner {
 	height: 100%;
 }
 .ui-progressbar .ui-progressbar-overlay {
-	background: url("images/animated-overlay.gif");
+	background: url("file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom WC/assets/images/animated-overlay.gif");
 	height: 100%;
 	filter: alpha(opacity=25);
 	opacity: 0.25;
@@ -801,7 +801,7 @@ body .ui-tooltip {
 }
 .ui-widget-content {
 	border: 1px solid #666666;
-	background: #000000 url(images/ui-bg_inset-soft_25_000000_1x100.png) 50% bottom repeat-x;
+	background: #000000 url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-bg_inset-soft_25_000000_1x100.png) 50% bottom repeat-x;
 	color: #ffffff;
 }
 .ui-widget-content a {
@@ -809,7 +809,7 @@ body .ui-tooltip {
 }
 .ui-widget-header {
 	border: 1px solid #333333;
-	background: #333333 url(images/ui-bg_gloss-wave_25_333333_500x100.png) 50% 50% repeat-x;
+	background: #333333 url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-bg_gloss-wave_25_333333_500x100.png) 50% 50% repeat-x;
 	color: #ffffff;
 	font-weight: bold;
 }
@@ -823,7 +823,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-default,
 .ui-widget-header .ui-state-default {
 	border: 1px solid #666666;
-	background: #555555 url(images/ui-bg_glass_20_555555_1x400.png) 50% 50% repeat-x;
+	background: #555555 url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-bg_glass_20_555555_1x400.png) 50% 50% repeat-x;
 	font-weight: bold;
 	color: #eeeeee;
 }
@@ -840,7 +840,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-focus,
 .ui-widget-header .ui-state-focus {
 	border: 1px solid #59b4d4;
-	background: #0078a3 url(images/ui-bg_glass_40_0078a3_1x400.png) 50% 50% repeat-x;
+	background: #0078a3 url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-bg_glass_40_0078a3_1x400.png) 50% 50% repeat-x;
 	font-weight: bold;
 	color: #ffffff;
 }
@@ -855,7 +855,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-active,
 .ui-widget-header .ui-state-active {
 	border: 1px solid #ffaf0f;
-	background: #f58400 url(images/ui-bg_inset-soft_30_f58400_1x100.png) 50% 50% repeat-x;
+	background: #f58400 url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-bg_inset-soft_30_f58400_1x100.png) 50% 50% repeat-x;
 	font-weight: bold;
 	color: #ffffff;
 }
@@ -872,7 +872,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-highlight,
 .ui-widget-header .ui-state-highlight {
 	border: 1px solid #cccccc;
-	background: #eeeeee url(images/ui-bg_highlight-soft_80_eeeeee_1x100.png) 50% top repeat-x;
+	background: #eeeeee url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-bg_highlight-soft_80_eeeeee_1x100.png) 50% top repeat-x;
 	color: #2e7db2;
 }
 .ui-state-highlight a,
@@ -884,7 +884,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-error,
 .ui-widget-header .ui-state-error {
 	border: 1px solid #ffb73d;
-	background: #ffc73d url(images/ui-bg_glass_40_ffc73d_1x400.png) 50% 50% repeat-x;
+	background: #ffc73d url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-bg_glass_40_ffc73d_1x400.png) 50% 50% repeat-x;
 	color: #111111;
 }
 .ui-state-error a,
@@ -931,27 +931,27 @@ body .ui-tooltip {
 }
 .ui-icon,
 .ui-widget-content .ui-icon {
-	background-image: url(images/ui-icons_cccccc_256x240.png);
+	background-image: url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-icons_cccccc_256x240.png);
 }
 .ui-widget-header .ui-icon {
-	background-image: url(images/ui-icons_ffffff_256x240.png);
+	background-image: url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-icons_ffffff_256x240.png);
 }
 .ui-state-default .ui-icon {
-	background-image: url(images/ui-icons_cccccc_256x240.png);
+	background-image: url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-icons_cccccc_256x240.png);
 }
 .ui-state-hover .ui-icon,
 .ui-state-focus .ui-icon {
-	background-image: url(images/ui-icons_ffffff_256x240.png);
+	background-image: url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-icons_ffffff_256x240.png);
 }
 .ui-state-active .ui-icon {
-	background-image: url(images/ui-icons_222222_256x240.png);
+	background-image: url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-icons_222222_256x240.png);
 }
 .ui-state-highlight .ui-icon {
-	background-image: url(images/ui-icons_4b8e0b_256x240.png);
+	background-image: url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-icons_4b8e0b_256x240.png);
 }
 .ui-state-error .ui-icon,
 .ui-state-error-text .ui-icon {
-	background-image: url(images/ui-icons_a83300_256x240.png);
+	background-image: url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-icons_a83300_256x240.png);
 }
 
 /* positioning */
@@ -1163,14 +1163,14 @@ body .ui-tooltip {
 
 /* Overlays */
 .ui-widget-overlay {
-	background: #5c5c5c url(images/ui-bg_flat_50_5c5c5c_40x100.png) 50% 50% repeat-x;
+	background: #5c5c5c url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-bg_flat_50_5c5c5c_40x100.png) 50% 50% repeat-x;
 	opacity: .8;
 	filter: Alpha(Opacity=80);
 }
 .ui-widget-shadow {
 	margin: -7px 0 0 -7px;
 	padding: 7px;
-	background: #cccccc url(images/ui-bg_flat_30_cccccc_40x100.png) 50% 50% repeat-x;
+	background: #cccccc url(file:///C|/Users/user/Documents/SpreadsheetConverter/Eskom%20WC/assets/images/ui-bg_flat_30_cccccc_40x100.png) 50% 50% repeat-x;
 	opacity: .6;
 	filter: Alpha(Opacity=60);
 	border-radius: 8px;
@@ -1914,6 +1914,7 @@ input, input[type="password"], input[type="search"], isindex, textarea {
 	top:1px
 }
 .toolbarBluebtn {
+
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3d94f6), color-stop(1, #00348a) );
 	background:-moz-linear-gradient( center top, #3d94f6 5%, #00348a 100% );
 	background-color:#00348a;
@@ -2041,6 +2042,7 @@ textarea {
 	border: 1px solid #A0A0A0;
 	background: #FFF!important
 }
+
 .ee100 {
 	background: #DCE6F1;
 	color: #000;
@@ -2231,19 +2233,6 @@ textarea {
 	vertical-align: bottom
 }
 .ee137 {
-	background: #B7DEE8;
-	color: #000;
-	font-family: Calibri, sans-serif;
-	font-size: 12.00pt;
-	font-style: normal;
-	font-weight: 400;
-	padding-left: 1px;
-	padding-right: 1px;
-	padding-top: 1px;
-	text-align: center;
-	vertical-align: bottom
-}
-.ee138 {
 	background: #538DD5;
 	color: #000;
 	font-family: Calibri, sans-serif;
@@ -2256,7 +2245,7 @@ textarea {
 	text-align: right;
 	vertical-align: bottom
 }
-.ee141 {
+.ee140 {
 	background: #B7DEE8;
 	color: #000;
 	font-family: Calibri, sans-serif;
@@ -2269,7 +2258,7 @@ textarea {
 	text-align: right;
 	vertical-align: bottom
 }
-.ee142 {
+.ee141 {
 	background: #B7DEE8;
 	color: #000;
 	font-family: Calibri, sans-serif;
@@ -2277,6 +2266,19 @@ textarea {
 	font-style: normal;
 	font-weight: 400;
 	text-align: right;
+	vertical-align: bottom
+}
+.ee142 {
+	background: #B7DEE8;
+	color: #000;
+	font-family: Calibri, sans-serif;
+	font-size: 12.00pt;
+	font-style: normal;
+	font-weight: 400;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+	text-align: center;
 	vertical-align: bottom
 }
 .ee143 {
